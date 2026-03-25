@@ -1,3 +1,0 @@
-Day 2
-
-Added lines 1 and 3, and moved line 5
